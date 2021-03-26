@@ -1,1 +1,2 @@
 # PunnetSquare
+Punnet Square program
